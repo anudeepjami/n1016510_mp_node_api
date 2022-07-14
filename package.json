@@ -1,0 +1,27 @@
+{
+  "name": "n1016510_mp_node_api",
+  "version": "1.0.0",
+  "description": "Major Project Node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nodejs",
+    "ethereum",
+    "solidity",
+    "express",
+    "mysql",
+    "REST",
+    "API"
+  ],
+  "author": "Anudeep Jami N1016510",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.10",
+    "ganache": "^7.3.2",
+    "mocha": "^10.0.0",
+    "solc": "^0.8.15",
+    "web3": "^1.7.4"
+  }
+}
